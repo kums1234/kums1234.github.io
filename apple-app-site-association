@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NBJAA483R4.kums.kind2self"],
+        "components": [
+          {
+            "/": "/kind2self/k/*",
+            "comment": "Kindness shares open in the Kind2Self app"
+          }
+        ]
+      }
+    ]
+  }
+}

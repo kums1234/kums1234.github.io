@@ -1,1 +1,8 @@
 theme: jekyll-theme-tactile
+
+# Jekyll excludes dotfile-prefixed directories by default. Include
+# `.well-known/` so the Apple App Site Association file ships — Apple
+# fetches it from the domain root to resolve Universal Links for the
+# Kind2Self iOS app.
+include:
+  - .well-known
